@@ -5,7 +5,6 @@ using namespace std;
 
 int main() {
     queue<int> q;  // create a queue of integers
-
     // Insert elements (enqueue)
     q.push(10);
     q.push(20);
