@@ -30,3 +30,10 @@ int main() {
     return 0;
 }
 
+/*
+output
+Front element: 10
+Rear element: 30
+After one pop, front element: 20
+Remaining queue elements: 20 30
+*/
